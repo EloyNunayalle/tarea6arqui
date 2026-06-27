@@ -1,0 +1,37 @@
+# Ejecutables
+*.exe
+*.out
+*.app
+
+# Objetos y librerias
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Archivos generados por compilacion
+*.elf
+
+# Carpetas de compilacion
+build/
+cmake-build-*/
+out/
+
+# Archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos de CLion / IntelliJ
+.idea/
+*.iml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
